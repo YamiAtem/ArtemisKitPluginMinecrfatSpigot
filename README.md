@@ -1,4 +1,4 @@
-# Ares Kit Minecraft Java Plugin
+# Artemis Kit Minecraft Java Plugin
 ## Made by and with
 This plugin was made by Atharva Mishra and it was made with eclipse
 ## How to use this plugin
